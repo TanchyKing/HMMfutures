@@ -1,3 +1,3 @@
 # HMMfutures
 
-# applying Hidden Markov Model to Chinese Futures Market
+# Applying Hidden Markov Model to Chinese Futures Market
